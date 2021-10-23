@@ -1,4 +1,4 @@
-# Coffe-shop
+# Coffee-shop
 A coffee shop called coffee home, take a look-----> https://cdpn.io/aigle06/debug/porgJBo/mWMoNzQXXDvk
 - 👋 Hi, I’m @Aigle06
 - 👀 I’m interested in programming.
